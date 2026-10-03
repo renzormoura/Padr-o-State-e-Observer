@@ -1,0 +1,10 @@
+padroescomportamentais\state\AlunoEstadoJubilado.class
+padroescomportamentais\state\Aluno.class
+padroescomportamentais\state\AlunoEstadoMatriculado.class
+padroescomportamentais\state\AlunoEstadoBuilder.class
+padroescomportamentais\state\AlunoObservador.class
+padroescomportamentais\state\AlunoEstadoEvadido.class
+padroescomportamentais\state\AlunoEstadoTransferido.class
+padroescomportamentais\state\AlunoEstadoFormado.class
+padroescomportamentais\state\AlunoEstado.class
+padroescomportamentais\state\AlunoEstadoTrancado.class

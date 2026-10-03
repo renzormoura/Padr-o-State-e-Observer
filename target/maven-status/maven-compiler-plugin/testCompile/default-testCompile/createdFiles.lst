@@ -1,0 +1,9 @@
+padroescomportamentais\state\AlunoBuilderTest.class
+padroescomportamentais\state\AlunoObserverTest.class
+padroescomportamentais\state\AlunoEstadoTrancadoTest.class
+padroescomportamentais\state\AlunoEstadoTransferidoTest.class
+padroescomportamentais\state\AlunoEstadoJubiladoTest.class
+padroescomportamentais\state\AlunoEstadoMatriculadoTest.class
+padroescomportamentais\state\AlunoEstadoFormadoTest.class
+padroescomportamentais\state\AlunoEstadoEvadidoTest.class
+padroescomportamentais\state\AlunoFluxoTest.class
